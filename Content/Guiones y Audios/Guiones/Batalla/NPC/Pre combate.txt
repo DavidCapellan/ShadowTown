@@ -1,0 +1,19 @@
+NOTA: Tanto como la mujer o el hombre que son los NPCs se tienen que hacer en acento de toledo o por lo menos que no se note tanto el acento andaluz:
+
+
+
+MUJER:
+
+01: ¡Acepto la batalla, te arrepentirás de haberme pedido la batalla!
+02: ¿Tú pidiendo pelea? (risa) ¡No hay que entiendan a vosotros! ¡te pienso ganar!
+03: ¡No querría pelear en primer momento, pero como me lo has pedido, no tengo más remedio!
+04: ¡No soy partidario del piedra papel o tijera, pero pienso ganarte!
+05: ¡Piedra papel o tijera! ¡Te gano ahora mismo!
+
+HOMBRE:
+
+01: ¿Piedra papel o tijera? Te arrepentirás por el resto de tu vida de batallar conmigo!
+02: ¡Vaya pardillo! ¿Te crees que me vas a ganarme? ¡Ni lo pienses! 
+03: ¡Pues hoy no me pillas de buen humor, pero me alegrarás cuando te gane ahora mismo!
+04: No tengo ganas de jugar piedra papel o tijera, pero no significa que no quiera que te gane, acepto el juego
+05: ¿Estamos para jugar no? ¡Que empiece el juego!

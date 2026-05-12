@@ -1,0 +1,78 @@
+GANA*
+
+
+PIEDRA:
+
+01: Vamonos, la piedra siempre gana a todo!
+02: Iki ri cua!, La piedra nunca falla!
+03: Ya ba da ba doo! La piedra es infalible
+04: Vamos! Te la he colao la piedra pero bien!
+05: Vamos chiquillol! 
+
+PAPEL:
+
+01: Fua! ¡Que buen cacho de papel tengo hijo!
+02: Sensei! Que malo eres jugando chiquetete!
+03: Fua! Que bueno que soy!
+04: Que paso muñeco? tu tijeras son del kanito o que?
+05: Y con este cachito de papel, te gano!
+
+TIJERA:
+
+01: ¡Si señor! ¡La tijera tampoco abandona!
+02: Fantástico, maravilloso, Increíble, que extraordinario!
+03: Tuuu, que pasa, no recuerdas que siempre la tijera corta el papel o que?
+04: Sham bababa!
+05: Y con esta tijera! Te corto y te gano!
+
+EMPATE*
+
+TIJERA:
+
+01: No habia otra cosa que sacar o que?
+02: Vaya casualidad hijo!
+03: Ahhh!
+04: Empate?
+05: No me copies cenutrio!
+
+PAPEL:
+
+01: No había más papeles no?
+02: Te gusta copiarte de mi por lo que veo no?
+03: Saca otra cosa, no sé, un trozito de papel sería mejor!
+04: ¡No me copies papanatas!
+05: Ijo! Que casualidad oye!
+
+PIEDRA:
+
+01: ¿Enserio tio?
+02: ¡No me copies sinlachón!
+03: ¡Que conste que no he hecho fullerías!
+04: ¡Tira por ahí anda!
+05: ¡Será posible!
+
+PIERDE*
+
+TIJERA:
+
+01: Has tenido mucha suerte!
+02: No había otro momento para sacar piedra no?
+03: Ahhh! Que suerte!
+04: Fullero!
+05: No vale!
+
+PAPEL:
+
+01: Para que esta el papel en este juego?
+02: Se te han alineado los astros por lo que veo no?
+03: Tu tienes una suerte que no te lo crees ni tú!
+04: No vale! Se las sabe todas!
+05: Fullereto!
+
+PIEDRA:
+
+01: Desde cuando la piedra se podría perder?
+02: No vale cambiar a último momento!
+03: Que suerte tienes!
+04: No puede ser!
+05: Venga ya hombre!

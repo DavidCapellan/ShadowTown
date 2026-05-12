@@ -1,0 +1,23 @@
+*Tienes que ver primero las instrucciones del pre combate para seguir con este guión para que no grabes los audios incorrectos*
+
+
+
+*Una vez que el jugador gane a la sombra, en cuanto salga la cinematica, reventará la sombra y sabrá como se llama el protagonista, aunque en el juego
+se muestre que haya estado peleando en un piedra papel o tijera, detrás de lo que vemos, era Joaquín hablando con esa persona, para que lo entiendas.
+
+
+MUJER:
+
+01: Pues mira Joaquín, un gusto conocerte, ya quedaremos pronto, para tomarnos una cerveza o un cacharro, encantada.
+02: ¿Te llamabas Joaquín no? pues ya entraremos en contactos, nos vemos
+03: Pues ya te tengo para lo que sea Joaqui, nos vemos guapetón
+04: Pues me ha encantado hablar Joaquín, siempre suelo estar por aquí, por si pasas, pues me saludas, hasta luego
+05: Un placer charlar contigo Joaquín, nos vemos para la próxima
+
+HOMBRE:
+
+01: ¡Eres un maquina Joaquín, nos vemos tío!
+02: ¡Pues tío, ha estado bien estar contigo, cualquier cosa me pegas un toque loco, chau!
+03: ¡Pues un placer conocerte Joaquín, nos vemos para la próxima!
+04: Escucha Joaquín, si no tienes alguien con que quedar, me llamas y nos vamos con unos cuantos, ¡nos vemos tío!
+05: ¿Joaquín te llamabas no? Echate un futbol cuando quieras conmigo, Adiós!

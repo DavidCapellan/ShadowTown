@@ -1,0 +1,15 @@
+A MUJER:
+
+01: Paso, no merece la pena hablar con esta mujer
+02: Me da miedo las mujeres
+03: Como hable con esta mujer a mí me entra ansiedad
+04: Prefiero callarme antes que pasar un mal rato
+05: Es que como hable con ella, se va a reir de mí y no quiero
+
+A HOMBRE:
+
+06: Me da mucho corte hablar con este zagal
+07: Me da mucha vergüenza hablar con el, no puedo
+08: Me agobia muchísimo hablar con desconocidos
+09: Soy demasiado tímido, no puedo afrontarlo, no puedo
+10: Voy a hacer el rídiculo a la más mínima que socialice

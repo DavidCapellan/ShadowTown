@@ -1,0 +1,17 @@
+Hombre:
+
+01: No me das muy buena espina, no me dirigas más la palabra por favor...
+02: ¡Ahora entiendo porque buscas amigos! ¡Porque nadie te aguanta!
+03: Te coges das media vuelta, ¡Y pierdete por ahí!
+04: ¡No te me acerques más a hacia mi persona el resto de tu vida!
+05: ¡Ah no! ¡Suficiente te he aguantado! ¿Todos los tontos se me tienen que acercarme o que?
+
+
+
+Mujer:
+
+01: ¡Multiplicate por 0!
+02: ¡Eres bastante antipático, vuelve a tu tierra cenutrio!
+03: ¡Como no te vayas ahora mismo de aquí llamo a la Policía!
+04: ¡Que asco me das! ¡Ni tus padres deberían estar contigo!
+05: Hazme un favor Joaquín, vete lo más lejos posible de este pueblo, gracias.
