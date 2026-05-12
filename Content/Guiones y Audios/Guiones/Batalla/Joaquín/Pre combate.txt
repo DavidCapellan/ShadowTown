@@ -1,6 +1,6 @@
 01: ¡Tú escuhame! ¡Te reto a una batalla de piedra papel o tijera! Y si gano, ¡Desaparecerás para siempre de mi vista!
-02: Shhh, si tú, la sombra, ven pa acá, escucha, estoy harto de que me dejen de lado como personas como tú, ahora mismo, un reto de piedra papel o tijera, si pierdes tú,
-desaparecerás de mi vista para siempre, y si pierdo yo, me iré de este pueblo!
+02: Shhh, si tú, la sombra, ven pa acá, escucha, ¡estoy harto de que me dejen de lado como personas como tú!, ¡ahora mismo!, ¡un reto de piedra papel o tijera!, si pierdes tú...,
+¡desaparecerás de mi vista para siempre, y si pierdo yo, me iré de este pueblo!
 03: Oye tú! extraña sombra! Tengamos un combate de piedra papel o tijera ahora mismo!
-04: ¡Illo! ¡Tú el color neúmatico!, ¡una pelea de piedra papel o tijera!, el que pierda desaparece de la vista de uno de los dos ¿Te parece?
-05: Perdona, tu el color nocilla, ¡una batalla campal de trozitos de papel, tijeras del kanito y piedras de la plaza arenal ahora mismo! ¡como gane yo te vas para siempre de este sitio!
+04: ¡Illo! ¡Tú el color neúmatico!, ¡una pelea de piedra papel o tijera!, ¡el que pierda desaparece de la vista de uno de los dos! ¿Te parece?
+05: Perdona, ¡tú el color nocilla!, ¡una batalla campal de trozitos de papel, tijeras del kanito y piedras de la plaza arenal ahora mismo! ¡como gane yo te vas para siempre de este sitio!
