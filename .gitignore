@@ -79,3 +79,6 @@ DerivedDataCache/*
 .vscode/
 .cursor/
 .agent/
+
+# Tools
+Tools/
