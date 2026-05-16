@@ -1,6 +1,0 @@
-﻿{
-    "parentWidgetName":  "BtnSalir",
-    "assetPath":  "/Game/_Game/UI/WBP_InteractionMenu.WBP_InteractionMenu",
-    "widgetClass":  "TextBlock",
-    "widgetName":  "BtnSalir_Text"
-}
