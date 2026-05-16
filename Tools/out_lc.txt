@@ -1,0 +1,10 @@
+﻿{
+  "jsonrpc": "2.0",
+  "id": 1,
+  "result": {
+    "success": true,
+    "accepted": false,
+    "waited": true,
+    "result": "failure"
+  }
+}

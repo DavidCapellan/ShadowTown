@@ -73,3 +73,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# claude, vscode, cursor
+.claude/
+.vscode/
+.cursor/
+.agent/

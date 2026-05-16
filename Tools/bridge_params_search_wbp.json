@@ -1,0 +1,1 @@
+{"code": "import unreal\nar = unreal.AssetRegistryHelpers.get_asset_registry()\nfor d in ar.get_assets_by_path('/Game', recursive=True):\n    n = str(d.asset_name)\n    if 'WBP' in n or 'Widget' in str(d.asset_class_path.asset_name):\n        unreal.log(f'{d.package_name} [{d.asset_class_path.asset_name}]')"}

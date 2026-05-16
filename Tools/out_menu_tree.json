@@ -1,0 +1,21 @@
+﻿python : Traceback (most recent call last):
+En C:\Users\lizarraga\AppData\Local\Temp\ps-script-edbb036a-ab85-45d7-bd53-e513afdb277b.ps1: 95 Carácter: 1
++ python $py read_widget_tree @{assetPath=$wbp} 2>&1 | Out-File "C:\UE4 ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\UE4\ShadowTown\Tools\ue_bridge_call.py", line 115, in <module>
+    main()
+    ~~~~^^
+  File "C:\UE4\ShadowTown\Tools\ue_bridge_call.py", line 109, in main
+    params = json.loads(arg)
+  File "C:\Users\lizarraga\AppData\Local\Python\pythoncore-3.14-64\Lib\json\__init__.py", line 352, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\lizarraga\AppData\Local\Python\pythoncore-3.14-64\Lib\json\decoder.py", line 345, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lizarraga\AppData\Local\Python\pythoncore-3.14-64\Lib\json\decoder.py", line 363, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)

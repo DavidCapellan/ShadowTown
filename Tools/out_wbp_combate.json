@@ -1,0 +1,8 @@
+﻿{
+  "jsonrpc": "2.0",
+  "id": 1,
+  "result": {
+    "success": false,
+    "error": "Failed to load WidgetBlueprint at '/Game/_Game/Blueprints/WBP_HUD_Combate.WBP_HUD_Combate'"
+  }
+}

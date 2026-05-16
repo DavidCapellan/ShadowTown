@@ -1,0 +1,6 @@
+﻿{
+    "parentWidgetName":  "MenuCanvas",
+    "assetPath":  "/Game/_Game/UI/WBP_InteractionMenu.WBP_InteractionMenu",
+    "widgetClass":  "Button",
+    "widgetName":  "BtnSalir"
+}

@@ -1,0 +1,130 @@
+﻿{
+  "jsonrpc": "2.0",
+  "id": 1,
+  "result": {
+    "success": true,
+    "actors": [
+      {
+        "label": "SM_SkySphere",
+        "class": "StaticMeshActor",
+        "path": "/Game/_Game/Maps/Map_Circuito_Final.Map_Circuito_Final:PersistentLevel.StaticMeshActor_0"
+      },
+      {
+        "label": "Floor",
+        "class": "StaticMeshActor",
+        "path": "/Game/_Game/Maps/Map_Circuito_Final.Map_Circuito_Final:PersistentLevel.Floor_0"
+      },
+      {
+        "label": "CubeGridToolOutput",
+        "class": "StaticMeshActor",
+        "path": "/Game/_Game/Maps/Map_Circuito_Final.Map_Circuito_Final:PersistentLevel.StaticMeshActor_1"
+      },
+      {
+        "label": "Cube",
+        "class": "StaticMeshActor",
+        "path": "/Game/_Game/Maps/Map_Circuito_Final.Map_Circuito_Final:PersistentLevel.StaticMeshActor_5"
+      },
+      {
+        "label": "Cube2",
+        "class": "StaticMeshActor",
+        "path": "/Game/_Game/Maps/Map_Circuito_Final.Map_Circuito_Final:PersistentLevel.StaticMeshActor_9"
+      },
+      {
+        "label": "Cube3",
+        "class": "StaticMeshActor",
+        "path": "/Game/_Game/Maps/Map_Circuito_Final.Map_Circuito_Final:PersistentLevel.StaticMeshActor_11"
+      },
+      {
+        "label": "Cube4",
+        "class": "StaticMeshActor",
+        "path": "/Game/_Game/Maps/Map_Circuito_Final.Map_Circuito_Final:PersistentLevel.StaticMeshActor_12"
+      },
+      {
+        "label": "Cube5",
+        "class": "StaticMeshActor",
+        "path": "/Game/_Game/Maps/Map_Circuito_Final.Map_Circuito_Final:PersistentLevel.StaticMeshActor_13"
+      },
+      {
+        "label": "Cube6",
+        "class": "StaticMeshActor",
+        "path": "/Game/_Game/Maps/Map_Circuito_Final.Map_Circuito_Final:PersistentLevel.StaticMeshActor_14"
+      },
+      {
+        "label": "carretera_normal",
+        "class": "StaticMeshActor",
+        "path": "/Game/_Game/Maps/Map_Circuito_Final.Map_Circuito_Final:PersistentLevel.StaticMeshActor_4"
+      },
+      {
+        "label": "carretera_normal2",
+        "class": "StaticMeshActor",
+        "path": "/Game/_Game/Maps/Map_Circuito_Final.Map_Circuito_Final:PersistentLevel.StaticMeshActor_6"
+      },
+      {
+        "label": "carretera_normal3",
+        "class": "StaticMeshActor",
+        "path": "/Game/_Game/Maps/Map_Circuito_Final.Map_Circuito_Final:PersistentLevel.StaticMeshActor_7"
+      },
+      {
+        "label": "carretera_normal4",
+        "class": "StaticMeshActor",
+        "path": "/Game/_Game/Maps/Map_Circuito_Final.Map_Circuito_Final:PersistentLevel.StaticMeshActor_8"
+      },
+      {
+        "label": "carretera_normal6",
+        "class": "StaticMeshActor",
+        "path": "/Game/_Game/Maps/Map_Circuito_Final.Map_Circuito_Final:PersistentLevel.StaticMeshActor_15"
+      },
+      {
+        "label": "carretera_normal7",
+        "class": "StaticMeshActor",
+        "path": "/Game/_Game/Maps/Map_Circuito_Final.Map_Circuito_Final:PersistentLevel.StaticMeshActor_16"
+      },
+      {
+        "label": "carretera_normal8",
+        "class": "StaticMeshActor",
+        "path": "/Game/_Game/Maps/Map_Circuito_Final.Map_Circuito_Final:PersistentLevel.StaticMeshActor_17"
+      },
+      {
+        "label": "carretera_normal9",
+        "class": "StaticMeshActor",
+        "path": "/Game/_Game/Maps/Map_Circuito_Final.Map_Circuito_Final:PersistentLevel.StaticMeshActor_18"
+      },
+      {
+        "label": "Cube7",
+        "class": "StaticMeshActor",
+        "path": "/Game/_Game/Maps/Map_Circuito_Final.Map_Circuito_Final:PersistentLevel.StaticMeshActor_2"
+      },
+      {
+        "label": "Cube8",
+        "class": "StaticMeshActor",
+        "path": "/Game/_Game/Maps/Map_Circuito_Final.Map_Circuito_Final:PersistentLevel.StaticMeshActor_3"
+      },
+      {
+        "label": "Cube9",
+        "class": "StaticMeshActor",
+        "path": "/Game/_Game/Maps/Map_Circuito_Final.Map_Circuito_Final:PersistentLevel.StaticMeshActor_10"
+      },
+      {
+        "label": "Cube10",
+        "class": "StaticMeshActor",
+        "path": "/Game/_Game/Maps/Map_Circuito_Final.Map_Circuito_Final:PersistentLevel.StaticMeshActor_19"
+      },
+      {
+        "label": "Cube11",
+        "class": "StaticMeshActor",
+        "path": "/Game/_Game/Maps/Map_Circuito_Final.Map_Circuito_Final:PersistentLevel.StaticMeshActor_20"
+      },
+      {
+        "label": "Lina2Armature_Idle-Stay",
+        "class": "SkeletalMeshActor",
+        "path": "/Game/_Game/Maps/Map_Circuito_Final.Map_Circuito_Final:PersistentLevel.SkeletalMeshActor_4"
+      },
+      {
+        "label": "Actor",
+        "class": "Actor",
+        "path": "/Game/_Game/Maps/Map_Circuito_Final.Map_Circuito_Final:PersistentLevel.ChaosDebugDrawActor"
+      }
+    ],
+    "count": 24
+  }
+}
