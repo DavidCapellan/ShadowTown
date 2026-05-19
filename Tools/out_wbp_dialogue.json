@@ -1,8 +1,0 @@
-﻿{
-  "jsonrpc": "2.0",
-  "id": 1,
-  "result": {
-    "success": false,
-    "error": "Failed to load WidgetBlueprint at '/Game/_Game/UI/WBP_DialogueHUD.WBP_DialogueHUD'"
-  }
-}
