@@ -26,7 +26,7 @@ public:
 	static UShadowInteractionMenuWidget* ShowInteractionMenu(
 		ACharacter* PlayerCharacter,
 		AActor* NpcActor,
-		TSubclassOf<UShadowInteractionMenuWidget> MenuClass);
+		TSubclassOf<UShadowInteractionMenuWidget> MenuClass = nullptr);
 
 	UFUNCTION(BlueprintCallable, Category = "ShadowTown|Interaction", meta = (WorldContext = "WorldContextObject"))
 	static void HideInteractionMenu(ACharacter* PlayerCharacter);

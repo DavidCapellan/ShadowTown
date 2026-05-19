@@ -205,7 +205,7 @@ void UShadowInteractionMenuWidget::ShowMenu(ACharacter* PlayerCharacter, AActor*
 void UShadowInteractionMenuWidget::HideMenu()
 {
 	SetVisibility(ESlateVisibility::Collapsed);
-
+	// aqui falla hay que mirarlo
 	if (CachedPlayer.IsValid())
 	{
 		UShadowPlayerInteractionLibrary::UnlockPlayerMovementForMenu(CachedPlayer.Get());
